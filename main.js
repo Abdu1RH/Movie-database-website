@@ -125,7 +125,7 @@ fetch("https://gist.githubusercontent.com/pankaj28843/08f397fcea7c760a99206bcb0a
 
 //Exercise 9
 //Your feature here. What feature would you like to add to the movie database?
-//When the button is clicked only movies with a 8.2+ rating are shown.
+//When the button is clicked only movies with a rating over 8.2 are shown.
 
 alert("You can only use one button at a time, please refresh the page to use the other button");
 
